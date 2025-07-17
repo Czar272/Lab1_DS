@@ -1,13 +1,4 @@
-Unnamed: 0,Unnamed: 1,Unnamed: 2,Unnamed: 3,Unnamed: 4,Unnamed: 5,Unnamed: 6,Unnamed: 7,Unnamed: 8,Unnamed: 9,Unnamed: 10,Unnamed: 11,Unnamed: 12,Unnamed: 13,Unnamed: 14,Unnamed: 15,Unnamed: 16,Unnamed: 17,Unnamed: 18,Unnamed: 19,Unnamed: 20,Unnamed: 21,Unnamed: 22,Unnamed: 23
-,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,
-Unidad: Barril (42 galones),,,,,,,,,,,,,,,,,,,,,,,
-Fecha,Aceites lubricantes,Asfalto,"Bunker C
-o fuel oil",Combustible turbo jet,Diesel bajo azufre,Diesel ultra bajo azufre,Gas licuado de petróleo,Gas natural,"Gasolina
-de aviación",Gasolina regular,Gasolina superior,Grasas lubricantes,Kerosina,Mezclas oleosas,Naftas,Petcoke,Solventes,Ceras,Diesel alto azufre,Gas oil de vacío,Orimulsión,Petroleo Crudo (Comb.),"Total
-mensual"
+Fecha,Aceites lubricantes,Asfalto,Bunker C o fuel oil,Combustible turbo jet,Diesel bajo azufre,Diesel ultra bajo azufre,Gas licuado de petróleo,Gas natural,Gasolina de aviación,Gasolina regular,Gasolina superior,Grasas lubricantes,Kerosina,Mezclas oleosas,Naftas,Petcoke,Solventes,Ceras,Diesel alto azufre,Gas oil de vacío,Orimulsión,Petroleo Crudo (Comb.),Total mensual
 2002-01-01 00:00:00,0,12072,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,856323.03
 2002-02-01 00:00:00,0,25445,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,444740.86
 2002-03-01 00:00:00,0,8440,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,624515.8
